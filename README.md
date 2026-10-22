@@ -17,7 +17,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://komarev.com/ghpvc/?username=muteys&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
->>>>>>> 9ae3421 (1)
+[![](https://komarev.com/ghpvc/?username=muteys&icon=0&color=blue)](https://visitcount.itsvg.in)
