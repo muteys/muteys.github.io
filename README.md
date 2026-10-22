@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# muteys.github.io
-# muteys.github.io
-# muteys.github.io
-# muteys.github.io
-# muteys.github.io
-# muteys.github.io
-# muteys.github.io
-=======
 # 💫 About Me:
 👋 My name is Ilya Larin
 🔭 I’m a student of HSE
